@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja</h1>
-<h3 align="center">My interests are cloud, python, linux and automation technologies</h3>
+<h3 align="center">My interests are cloud, python, Linux, and automation technologies</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
